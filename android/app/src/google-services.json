@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "25886604917",
+    "project_id": "graduation-project-7a509",
+    "storage_bucket": "graduation-project-7a509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25886604917:android:0df1548c1962a443e6423c",
+        "android_client_info": {
+          "package_name": "com.example.bel_gomlaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25886604917-i1jqbs61ncbvd2q0rsogm4rgdluq41bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsO1L9QAMX78pCI-lCJt6Oj8I5ZevgCSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25886604917-i1jqbs61ncbvd2q0rsogm4rgdluq41bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25886604917-g0tegulajhrhdmgo9l650imifh7etgl4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.belGomlaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
